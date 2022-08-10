@@ -1,4 +1,4 @@
-# besu-ibft-docker-network for Arkdia 2.0 #
+# besu-ibft-docker-network for LDC #
 A dockerized network build with Hyperledger besu and IBFT consensus
 
 # Containers
@@ -24,4 +24,4 @@ https://besu.hyperledger.org/en/latest/Reference/CLI/CLI-Subcommands/#operator
 - Generate keys: orion --generatekeys <nameKeys>
 
 ---------
-Author: Arkdia/Dimar Borda 
+Author: LDC/Dimar Borda 
